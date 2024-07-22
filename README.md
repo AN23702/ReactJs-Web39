@@ -1,4 +1,4 @@
-> Note: hoc di con cho nay
+> Note: hoc di `con cho` nay
 
 # Tieu de h1
 ## Tieu de h2
